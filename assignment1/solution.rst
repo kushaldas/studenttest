@@ -1,4 +1,4 @@
 A new solution to the old problem
 =================================
 
-Solbed it with a spelling mistake.
+Solved it with a spelling mistake.
