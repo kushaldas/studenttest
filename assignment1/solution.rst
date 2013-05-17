@@ -1,7 +1,5 @@
-A new solution to the old problem
+Changed the title of the message
 =================================
-
-Solved it with a spelling mistake.
 
 Now in this problem we will add two numbers and return the result.
 
@@ -10,3 +8,5 @@ Now in this problem we will add two numbers and return the result.
 Run the above problem like::
 
     $ python add.py
+
+
